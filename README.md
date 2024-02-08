@@ -1,5 +1,5 @@
 # staging.truckee.xyz
-Staging website for truckee.xyz
+Staging website for truckee.xyz for testing.
 
 # ![truckee.xyz mini icon](./assets/truckee-xyz-icon-no-background-1x-scale.png) truckee.xyz ![truckee.xyz mini icon](./assets/truckee-xyz-icon-no-background-1x-scale.png)
 
