@@ -6,16 +6,6 @@
     <description>Recent content in tuckee.xyz on truckee.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>truckee.xyz All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 19 Feb 2024 07:07:07 +0100</lastBuildDate><atom:link href="https://truckee.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>truckee.xyz links</title>
-      <link>https://truckee.xyz/posts/first-post/</link>
-      <pubDate>Mon, 19 Feb 2024 07:07:07 +0100</pubDate>
-      
-      <guid>https://truckee.xyz/posts/first-post/</guid>
-      <description>truckee.xyz links links go here </description>
-    </item>
-    
+    <copyright>truckee.xyz All Rights Reserved.</copyright><atom:link href="https://truckee.xyz/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
