@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on truckee.xyz</title>
+    <link>https://truckee.xyz/posts/</link>
+    <description>Recent content in Posts on truckee.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Feb 2024 07:07:07 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>truckee.xyz All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 19 Feb 2024 07:07:07 +0100</lastBuildDate><atom:link href="https://truckee.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>truckee.xyz links</title>
-      <link>/posts/first-post/</link>
+      <link>https://truckee.xyz/posts/first-post/</link>
       <pubDate>Mon, 19 Feb 2024 07:07:07 +0100</pubDate>
       
-      <guid>/posts/first-post/</guid>
+      <guid>https://truckee.xyz/posts/first-post/</guid>
       <description>truckee.xyz links links go here </description>
     </item>
     
